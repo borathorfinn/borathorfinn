@@ -14,5 +14,3 @@ learning C, Git and basic CS stuff.
 - building consistency
 - making small projects
 
-```c
-printf("hello world\n");
