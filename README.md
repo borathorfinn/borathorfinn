@@ -5,6 +5,7 @@ power engineering student @ Jadavpur University
 learning C, Git and basic CS stuff.
 
 ## interests
+- sketching & visual design 
 - programming
 - movies & mangas
 - problem solving
