@@ -15,3 +15,5 @@ learning C, Git and basic CS stuff.
 - building consistency
 - making small projects
 
+```c
+printf("হ্যালো বিশ্ব \n");
