@@ -16,4 +16,4 @@ learning C, Git and basic CS stuff.
 - making small projects
 
 ```c
-printf("হ্যালো বিশ্ব\n");
+printf("হ্যালো বিশ্ব \n");
